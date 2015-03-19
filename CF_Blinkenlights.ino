@@ -24,7 +24,7 @@ const int betaOut = A3;
 
 
 // These bits you change to configure the sensor
-const int baseValue=340;  // Value of pure water
+const int baseValue=340;  // Value of weak 0.1CF solution
 const int cfTable[]={
 340,0,
 595,5,
